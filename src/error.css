@@ -1,0 +1,27 @@
+
+#notfound-error {
+  background: #fff url(https://f.mengtuiapp.com/common/404.png) top center
+    no-repeat;
+  padding-top: 310px;
+  text-align: center;
+  height: 100vh;
+
+}
+
+.title {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #999;
+  line-height: 30px;
+}
+.sub-title {
+  font-size: 12px;
+  color: @light;
+}
+.reload-btn {
+  margin-top: @space;
+  display: inline-block;
+  border: 1px solid #666;
+  padding: 3px 20px;
+  color: #666;
+}
